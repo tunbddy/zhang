@@ -69,7 +69,7 @@ src/
 | --- | --- | --- |
 | 顶栏导航 | `components/Navbar.jsx` | 固定顶部毛玻璃导航，滚动高亮当前板块，窄屏折叠菜单 |
 | 首屏 Hero | `components/Hero.jsx` | 全屏视频背景 + 极光遮罩，SplitText 标题入场、RotatingText 关键词轮播 |
-| 网站导航 | `components/Sites.jsx` | 52 个国外站点，四类筛选 + 实时搜索，卡片 ⇄ 紧凑列表视图切换 |
+| 网站导航 | `components/Sites.jsx` | 53 个国外站点，四类筛选 + 实时搜索，卡片 ⇄ 紧凑列表视图切换 |
 | 关于我 | `components/About.jsx` | 左图右文，头像环形动效、统计数字滚动、邮箱与社交入口 |
 | 精选项目 | `components/Projects.jsx` | 双列大卡片，封面缩放 + 卡片上浮 + 悬停详情 |
 | 核心优势 | `components/Strengths.jsx` | 四列卡片，进入视口依次渐显 |

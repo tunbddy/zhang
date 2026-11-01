@@ -535,6 +535,16 @@ export const sites = [
     description: '把上百种技术文档聚合到一个界面，支持离线检索与快捷键。',
     accent: ['#4FE3C1', '#7AA2FF'],
   },
+  {
+    id: 'agent-qa',
+    name: 'agent-qa',
+    url: 'https://vostride.com',
+    initial: 'qa',
+    category: 'dev',
+    tags: ['AI 测试', 'CLI / MCP'],
+    description: 'vostride 的自然语言 Web、Android 与 iOS 测试工具，支持 memidex 持久记忆和经验证的自我改进。',
+    accent: ['#7AA2FF', '#4FE3C1'],
+  },
 ]
 
 export const featuredSites = sites.filter((site) => site.featured)
